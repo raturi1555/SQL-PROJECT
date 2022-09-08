@@ -1,0 +1,14 @@
+profile_id,rent,move_in_date,house_type,beds_vacant,city
+2,11000,00:00.0,Apartment,1,Bangalore
+3,12000,00:00.0,Apartment,0,Bangalore
+5,9000,00:00.0,Apartment,4,Bangalore
+6,10200,00:00.0,Apartment,1,Bangalore
+7,6500,00:00.0,Apartment,1,Bangalore
+8,7200,00:00.0,Apartment,0,Pune
+9,7500,00:00.0,Independent,0,Pune
+10,7500,00:00.0,Independent,1,Pune
+11,8000,00:00.0,Independent,1,Pune
+14,13500,00:00.0,Independent,1,Delhi
+18,8000,00:00.0,Apartment,0,Delhi
+19,7500,00:00.0,Independent,2,Delhi
+20,9500,00:00.0,Apartment,0,Delhi
